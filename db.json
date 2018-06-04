@@ -6,6 +6,7 @@
             "genre": "Adventure",
             "duration": 162,
             "rating": 4.2,
+            "releaseDate": "2001-10-21T13:28:06.419Z",
             "linkUrl": "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1"
         },
         {
@@ -14,6 +15,25 @@
             "genre": "Fantasy",
             "duration": 178,
             "rating": 4.5,
+            "releaseDate": "2011-10-21T13:28:06.419Z",
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+        },
+    {
+            "movieId": 4,
+            "movieName": "Lord of the rings-Two towers",
+            "genre": "Fantasy",
+            "duration": 178,
+            "rating": 4.5,
+            "releaseDate": "2003-10-21T13:28:06.419Z",
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+        },
+        {
+            "movieId": 5,
+            "movieName": "Harry Potter 2",
+            "genre": "Adventure",
+            "duration": 178,
+            "rating": 4.5,
+            "releaseDate": "2005-10-21T13:28:06.419Z",
             "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
         }
   ],
