@@ -1,12 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "movies": [
+    {
+            "movieId": 2,
+            "movieName": "Harry Potter",
+            "genre": "Adventure",
+            "duration": 162,
+            "rating": 4.2,
+            "linkUrl": "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1"
+        },
+        {
+            "movieId": 3,
+            "movieName": "Lord of the rings",
+            "genre": "Fantasy",
+            "duration": 178,
+            "rating": 4.5,
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+        }
   ],
   "profile": {
     "name": "typicode"
