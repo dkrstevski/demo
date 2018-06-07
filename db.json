@@ -7,7 +7,8 @@
             "duration": 162,
             "rating": 4.2,
             "releaseDate": "2001-10-21",
-            "linkUrl": "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1"
+            "linkUrl": "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1",
+            "imgUrl": "./assets/images/HP1.png"
         },
         {
             "movieId": 3,
@@ -16,7 +17,8 @@
             "duration": 178,
             "rating": 4.5,
             "releaseDate": "2001-11-21",
-            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
+            "imgUrl": "./assets/images/HP1.png"
         },
     {
             "movieId": 4,
@@ -25,7 +27,8 @@
             "duration": 178,
             "rating": 4.5,
             "releaseDate": "2003-10-21T13:28:06.419Z",
-            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
+            "imgUrl": "./assets/images/HP1.png"
         },
         {
             "movieId": 5,
@@ -34,7 +37,8 @@
             "duration": 178,
             "rating": 4.5,
             "releaseDate": "2005-10-21T13:28:06.419Z",
-            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1"
+            "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
+            "imgUrl": "./assets/images/HP1.png"
         }
   ],
   "profile": {
