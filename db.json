@@ -8,7 +8,7 @@
             "rating": 4.2,
             "releaseDate": "2001-10-21",
             "linkUrl": "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1",
-            "imgUrl": "./assets/images/HP1.png"
+            "imgUrl": "./assets/images/1.jpg"
         },
         {
             "movieId": 3,
@@ -18,7 +18,7 @@
             "rating": 4.5,
             "releaseDate": "2001-11-21",
             "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
-            "imgUrl": "./assets/images/HP1.png"
+            "imgUrl": "./assets/images/2.jpg"
         },
     {
             "movieId": 4,
@@ -28,7 +28,7 @@
             "rating": 4.5,
             "releaseDate": "2003-10-21T13:28:06.419Z",
             "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
-            "imgUrl": "./assets/images/HP1.png"
+            "imgUrl": "./assets/images/3.png"
         },
         {
             "movieId": 5,
@@ -38,7 +38,7 @@
             "rating": 4.5,
             "releaseDate": "2005-10-21T13:28:06.419Z",
             "linkUrl" : "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_1",
-            "imgUrl": "./assets/images/HP1.png"
+            "imgUrl": "https://fanart.tv/fanart/movies/672/movieart/harry-potter-and-the-chamber-of-secrets-51b48d4608720.png"
         }
   ],
   "profile": {
